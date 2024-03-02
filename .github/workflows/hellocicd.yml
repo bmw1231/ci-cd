@@ -26,5 +26,5 @@ jobs:
       - uses: actions/checkout@v3
 
       # Runs a single command using the runners shell
-      - name: Run our custom script
-        run: ./custom.sh
+      - name: Run rogger
+        run: ./custom.html
